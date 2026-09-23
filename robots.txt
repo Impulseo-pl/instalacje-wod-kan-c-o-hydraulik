@@ -1,0 +1,6 @@
+# Wersja pokazowa: podstrony mają noindex. Po przeniesieniu na domenę klienta
+# podmień adres mapy strony na nową domenę.
+User-agent: *
+Allow: /
+
+Sitemap: https://impulseo-pl.github.io/instalacje-wod-kan-c-o-hydraulik/sitemap.xml
